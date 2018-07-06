@@ -13,7 +13,7 @@
     </head>
     <body>
         <!-- Script 2.1 - form.html -->
-        <form action="handle_form.php" method="post">
+        <form action="index_2.php" method="post">
             <fieldset><legend>Enter your information in the form below:</legend>
                 <p><label>Name: <input type="text" name="name" size="20" maxlength="40"/></label></p>
                 
